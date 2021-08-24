@@ -1,0 +1,64 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "item": "bread"
+    },
+    {
+      "id": 2,
+      "item": "grapes"
+    },
+    {
+      "item": "rice",
+      "id": 3
+    },
+    {
+      "item": "beans",
+      "id": 4
+    },
+    {
+      "item": "oatmeal",
+      "id": 5
+    },
+    {
+      "item": "poultry",
+      "id": 6
+    },
+    {
+      "item": "chickpeas",
+      "id": 7
+    },
+    {
+      "item": "Mango",
+      "id": 8
+    },
+    {
+      "item": "pinneaple",
+      "id": 9
+    },
+    {
+      "item": "Bananas",
+      "id": 10
+    },
+    {
+      "item": "Plantain",
+      "id": 11
+    },
+    {
+      "item": "fungi",
+      "id": 12
+    },
+    {
+      "item": "Loin",
+      "id": 13
+    },
+    {
+      "item": "Sugar",
+      "id": 14
+    },
+    {
+      "item": "Farro",
+      "id": 15
+    }
+  ]
+}
